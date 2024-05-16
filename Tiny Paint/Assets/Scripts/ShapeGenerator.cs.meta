@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9ef40b02a2e2ba48840af989c2e74e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zPos: {instanceID: 0}
+  - material: {instanceID: 0}
+  - gameManagement: {instanceID: 0}
+  - circle: {fileID: 235078057866928305, guid: c1f3f8c9bdd017d40b39b83016a9e99d, type: 3}
+  - triangle: {fileID: 235078057866928305, guid: c86fb7c479541974f8ebb0b2fb978ee2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

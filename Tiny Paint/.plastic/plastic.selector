@@ -1,0 +1,4 @@
+repository "Tiny Paint@muhammetiyidil@cloud"
+  path "/"
+    br "/main"
+    co "/main"
